@@ -1,3 +1,4 @@
+import br.com.dio.desafio.dominio.Bootcamp;
 
 import java.time.LocalDate;
 
